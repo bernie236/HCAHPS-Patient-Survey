@@ -9,4 +9,4 @@ The intent of the Hospital Consumer Assessment of Healthcare Providers and Syste
 
 ### Links
 * [Tableau Dashboard](https://public.tableau.com/views/HCAHPSPatientSurvey_16922034388850/Nationallevel?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-* [Full Write-Up]()
+* [Full Write-Up](https://github.com/bernie236/HCAHPS-Patient-Survey/blob/main/HCAHPS%20Patient%20Survey%20Write-Up.pdf)
